@@ -12,7 +12,7 @@ class HomeLoading extends HomeState {}
 class HomeSuccess extends HomeState {
   final PokemonsModel dataPokemon;
   final List<Map<String, dynamic>> dataItem;
-  HomeSuccess(this.dataPokemon, this.dataItem);
+  const HomeSuccess(this.dataPokemon, this.dataItem);
 }
 
 class HomeError extends HomeState {

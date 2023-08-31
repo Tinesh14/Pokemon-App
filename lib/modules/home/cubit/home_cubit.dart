@@ -23,7 +23,9 @@ class HomeCubit extends Cubit<HomeState> {
         }
       }
       emit(HomeSuccess(data, listDataItem));
-    } catch (e) {}
+    } catch (e) {
+            debugPrint(e.toString());
+    }
   }
 }
 

@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:poke_app/modules/detail/cubit/detail_state.dart';
 import 'package:poke_app/modules/detail/repository/detail_repository.dart';
@@ -12,6 +13,8 @@ class DetailCubit extends Cubit<DetailState> {
     try {
       var data = await detailRepository.getDescription(id);
       emit(DetailSuccess(data));
-    } catch (e) {}
+    } catch (e) {
+      debugPrint(e.toString());
+    }
   }
 }

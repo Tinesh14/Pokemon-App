@@ -9,8 +9,8 @@ class PageRoutes {
 
   Map<String, WidgetBuilder> routes() {
     return {
-      home: (context) => HomeUi(),
-      detail: (context) => DetailUi(),
+      home: (context) => const HomeUi(),
+      detail: (context) => const DetailUi(),
     };
   }
 }

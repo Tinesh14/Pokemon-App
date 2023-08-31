@@ -21,7 +21,6 @@ class DetailsCardWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     var formatter = NumberFormat('0,0');
     var firstData = (pokemon['types'] as List).first;
-    debugPrint('coloring: ${firstData['type']['name']}');
     return Container(
       padding: const EdgeInsets.all(24),
       margin: const EdgeInsets.all(16),
