@@ -25,7 +25,6 @@ class _DetailUiState extends State<DetailUi> {
     var firstData = (pokemon?['types'] as List).first;
     return Scaffold(
       backgroundColor: StatsNames.color(type: firstData['type']['name']),
-      // AppTheme.color(type: pokemon.types.first.type.name),
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         title: Row(
@@ -56,7 +55,6 @@ class _DetailUiState extends State<DetailUi> {
           child: Container(
             margin: const EdgeInsets.only(top: 160),
             width: MediaQuery.of(context).size.width,
-            //height: MediaQuery.of(context).size.height,
             child: Stack(
               clipBehavior: Clip.none,
               children: [

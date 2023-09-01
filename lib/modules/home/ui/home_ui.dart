@@ -45,7 +45,6 @@ class _HomeUiState extends State<HomeUi> {
                   children: List.generate(
                     state.dataPokemon.results!.length,
                     (index) {
-                      // return Container();
                       return state.dataItem[index] != null
                           ? PokemonCardWidget(pokemon: state.dataItem[index])
                           : const Center(
@@ -53,7 +52,7 @@ class _HomeUiState extends State<HomeUi> {
                             );
                     },
                   ),
-                  //
+                  
                 ),
               );
             } else {

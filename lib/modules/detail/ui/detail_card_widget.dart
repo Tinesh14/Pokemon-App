@@ -44,9 +44,6 @@ class DetailsCardWidget extends StatelessWidget {
                   height: 20,
                   decoration: BoxDecoration(
                     color: StatsNames.color(type: firstData['type']['name']),
-                    // AppTheme.color(
-                    //   type: pokemon.types[index].type.name,
-                    // ),
                     borderRadius: BorderRadius.circular(10),
                   ),
                   child: Padding(
@@ -66,7 +63,6 @@ class DetailsCardWidget extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 24),
-          // CharacteristicsWidget(pokemon: pokemon),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
@@ -161,7 +157,6 @@ class DetailsCardWidget extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 24),
-          // BaseStatsWidget(pokemon: pokemon),
           Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -171,7 +166,6 @@ class DetailsCardWidget extends StatelessWidget {
                   fontSize: 18,
                   fontWeight: FontWeight.w700,
                   color: StatsNames.color(type: firstData['type']['name']),
-                  // AppTheme.color(type: pokemon.types.first.type.name),
                 ),
               ),
               const SizedBox(height: 16),
@@ -193,9 +187,6 @@ class DetailsCardWidget extends StatelessWidget {
                           style: TextStyle(
                             color: StatsNames.color(
                                 type: firstData['type']['name']),
-                            // AppTheme.color(
-                            //   type: pokemon.types.first.type.name,
-                            // ),
                             fontWeight: FontWeight.w700,
                           ),
                         ),
@@ -226,7 +217,6 @@ class DetailsCardWidget extends StatelessWidget {
                                   ?.withOpacity(.2),
                           valueColor: AlwaysStoppedAnimation<Color?>(
                             StatsNames.color(type: firstData['type']['name']),
-                            // AppTheme.color(type: pokemon.types.first.type.name),
                           ),
                         ),
                       )

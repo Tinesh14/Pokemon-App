@@ -18,12 +18,6 @@ class PokemonCardWidget extends StatelessWidget {
     var firstData = (pokemon['types'] as List).first;
     return InkWell(
       onTap: () {
-        // Navigator.push(
-        //   context,
-        //   MaterialPageRoute(
-        //     builder: (_) => DetailsPage(pokemon: pokemon),
-        //   ),
-        // );
         Navigator.pushNamed(
           context,
           PageRoutes.detail,
@@ -33,8 +27,6 @@ class PokemonCardWidget extends StatelessWidget {
       child: Container(
         decoration: BoxDecoration(
           border: Border.all(color: const Color(0xFF74CB48)
-              // AppTheme.color(
-              //     type: ((pokemon['types'] as List).first)['type']['name'])!,
               ),
           borderRadius: BorderRadius.circular(8),
         ),
@@ -48,10 +40,6 @@ class PokemonCardWidget extends StatelessWidget {
                 child: Text(
                   '#${pokemon['id'].toString().padLeft(3, '0')}',
                   style: const TextStyle(fontSize: 8, color: Color(0xFF74CB48)
-                      // AppTheme.color(
-                      //   type: pokemon['types'].first.type.name,
-                      //   // pokemon.types.first.type.name
-                      // ),
                       ),
                 ),
               ),
@@ -85,7 +73,6 @@ class PokemonCardWidget extends StatelessWidget {
               height: 24,
               decoration: BoxDecoration(
                 color: StatsNames.color(type: firstData['type']['name']),
-                // AppTheme.color(type: pokemon['types'].first.type.name),
                 borderRadius: const BorderRadius.only(
                   bottomLeft: Radius.circular(7),
                   bottomRight: Radius.circular(7),
