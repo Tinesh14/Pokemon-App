@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:4:4-34:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\User\.gradle\caches\transforms-3\5d3b3af9cea2feeec79e4c463df523dd\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\User\.gradle\caches\transforms-3\5d3b3af9cea2feeec79e4c463df523dd\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-3\25b577e1b613653653b983e25946a8dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-3\25b577e1b613653653b983e25946a8dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\User\.gradle\caches\transforms-3\5d3b3af9cea2feeec79e4c463df523dd\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:path_provider_android] E:\project\jobseeker\Pokemon-App\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\3860ed33342caff5d11021827cf57a14\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-3\9e0a85f9838e7f4b674e6fe2b5af8f80\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-3\3fead3e17eb39e469020ef8cafb52336\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-3\5298816842f01250cea4a9d26614e02a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-3\7ea1a5a592fc423f2198d7fec1521a50\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-3\266da52ee869bce6862d8072f4e2baf1\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\User\.gradle\caches\transforms-3\5d3b3af9cea2feeec79e4c463df523dd\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\User\.gradle\caches\transforms-3\0e0d0b39a10891fbeca7932698af1077\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-3\e93825471726c70914f5c5231ae5182d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-3\e436e0fc68cefb78230cc427a49e2907\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-3\ce995c30567288e6331bfca2a67b94f0\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\.gradle\caches\transforms-3\7508e5b2ca30e40ba74aedc2600bc1fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-3\dfbd3ca22ce29ea6331ee96adc0530be\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-3\25b577e1b613653653b983e25946a8dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-3\c47f7523da44b3dcc50d5a3e3d7916bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\User\.gradle\caches\transforms-3\5175b116c3b64d609059bd2b8d40bea9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:3:5-66
+MERGED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:3:5-66
+MERGED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml:3:22-64
+uses-sdk
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml
+MERGED from [:path_provider_android] E:\project\jobseeker\Pokemon-App\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] E:\project\jobseeker\Pokemon-App\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\3860ed33342caff5d11021827cf57a14\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\3860ed33342caff5d11021827cf57a14\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-3\9e0a85f9838e7f4b674e6fe2b5af8f80\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\User\.gradle\caches\transforms-3\9e0a85f9838e7f4b674e6fe2b5af8f80\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-3\3fead3e17eb39e469020ef8cafb52336\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\.gradle\caches\transforms-3\3fead3e17eb39e469020ef8cafb52336\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-3\5298816842f01250cea4a9d26614e02a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\.gradle\caches\transforms-3\5298816842f01250cea4a9d26614e02a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-3\7ea1a5a592fc423f2198d7fec1521a50\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\User\.gradle\caches\transforms-3\7ea1a5a592fc423f2198d7fec1521a50\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-3\266da52ee869bce6862d8072f4e2baf1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\User\.gradle\caches\transforms-3\266da52ee869bce6862d8072f4e2baf1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\User\.gradle\caches\transforms-3\5d3b3af9cea2feeec79e4c463df523dd\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\User\.gradle\caches\transforms-3\5d3b3af9cea2feeec79e4c463df523dd\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\User\.gradle\caches\transforms-3\0e0d0b39a10891fbeca7932698af1077\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\User\.gradle\caches\transforms-3\0e0d0b39a10891fbeca7932698af1077\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-3\e93825471726c70914f5c5231ae5182d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\User\.gradle\caches\transforms-3\e93825471726c70914f5c5231ae5182d\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-3\e436e0fc68cefb78230cc427a49e2907\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\.gradle\caches\transforms-3\e436e0fc68cefb78230cc427a49e2907\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-3\ce995c30567288e6331bfca2a67b94f0\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\User\.gradle\caches\transforms-3\ce995c30567288e6331bfca2a67b94f0\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\.gradle\caches\transforms-3\7508e5b2ca30e40ba74aedc2600bc1fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\.gradle\caches\transforms-3\7508e5b2ca30e40ba74aedc2600bc1fe\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-3\dfbd3ca22ce29ea6331ee96adc0530be\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\User\.gradle\caches\transforms-3\dfbd3ca22ce29ea6331ee96adc0530be\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-3\25b577e1b613653653b983e25946a8dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\.gradle\caches\transforms-3\25b577e1b613653653b983e25946a8dc\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-3\c47f7523da44b3dcc50d5a3e3d7916bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\User\.gradle\caches\transforms-3\c47f7523da44b3dcc50d5a3e3d7916bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\User\.gradle\caches\transforms-3\5175b116c3b64d609059bd2b8d40bea9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\User\.gradle\caches\transforms-3\5175b116c3b64d609059bd2b8d40bea9\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\jobseeker\Pokemon-App\android\app\src\debug\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\User\.gradle\caches\transforms-3\4aa0095428e896a04fe0c3ecf77f9833\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
